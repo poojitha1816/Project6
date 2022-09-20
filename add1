@@ -1,0 +1,5 @@
+public class Add1{
+int a,b,c;
+System.out.println("Print the value in C:" +c);
+int c=a+b;
+}
